@@ -1,5 +1,8 @@
 In this project, we will create an ETL (Extract, Transform, Load) pipeline to process COVID-19 data using the technologies mentioned in the job description:
 
+![image](https://github.com/Hagar-zakaria/Comprehensive-Guide-ETL-Pipeline-with-Python-PySpark-PostgreSQL-FastAPI-and-Streamlit/assets/93611934/8593042a-edf7-4ff9-a813-0b9d75b6833a)
+
+
 - Python (with Pandas, NumPy)
 - PySpark
 - SQL (PostgreSQL)
